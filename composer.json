@@ -1,5 +1,5 @@
 {
-    "name": "debesha/doctrine-hydration-profiler-bundle",
+    "name": "janwebdev/doctrine-hydration-profiler-bundle",
     "type": "symfony-bundle",
     "description": "Information about hydration of doctrine entities at the profiler",
     "keywords": [
